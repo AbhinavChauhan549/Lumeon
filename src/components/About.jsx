@@ -16,8 +16,12 @@ function About() {
             <div className="w-2 h-2 bg-zinc-100 rounded-full"></div>
           </button>
         </div>
-        <div className="w-1/2 h-[70vh]  bg-[#71832d] rounded-3xl">
-          <img src="../../public/pexels-photo-5706224.webp" alt="" />
+        <div className="w-1/2 h-[60vh]  bg-[#71832d] rounded-3xl ">
+          <img
+            src="../../public/pexels-photo-5706224.webp"
+            alt="About Us page"
+            height={100}
+          />
         </div>
       </div>
     </div>
